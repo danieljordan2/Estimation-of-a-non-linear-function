@@ -14,7 +14,7 @@ Build a neural network to estimate a non-linear function that models the bimodal
 
 Fig.1 Network prediction superimposed on data. Data source: Samarasinghe S.[1]. Graphic made by my own. 
 
-Blue points correspond to the original data for migration. The orange line is the predicted non-linear function by the neural network with an 1-4-1 architecture.
+Blue points correspond to the original data for migration. The orange line is the predicted non-linear function by the neural network with an 1-4-1 architecture, 20,000 epochs and a learning rate of 1.
 
 ## Case study and data source
 
